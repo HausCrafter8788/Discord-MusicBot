@@ -39,7 +39,7 @@ module.exports = {
   },
   // Spotify Integration, allows you to enter a spotify link.
   Spotify: {
-    ClientID: process.env.Spotify_ClientID || "", // Spotify Client ID
-    ClientSecret: process.env.Spotify_ClientSecret || "", // Spotify Client Secret
+    ClientID: process.env.Spotify_ClientID || "3887152b7c08479c834db064db0c4367", // Spotify Client ID
+    ClientSecret: process.env.Spotify_ClientSecret || "e9ccc0b9cbac411c8418b7db9c8d4e57", // Spotify Client Secret
   },
 };
